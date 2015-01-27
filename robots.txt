@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://xtzzz.github.io/sitemap.xml 
+Sitemap: http://blog.xtzzz.com/sitemap.xml 
